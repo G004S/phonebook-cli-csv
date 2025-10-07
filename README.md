@@ -8,7 +8,7 @@ Project created as part of my Python learning journey.
 
 ## 🚀 Features
 
-- Add new contacts with name, phone, email, and creation date  
+- Add new contacts with name, phone, email, and creation date with email and phone number validation through regex
 - View all contacts  
 - Remove existing contacts  
 - Persistent CSV storage  
@@ -63,6 +63,7 @@ This project was created to practice:
     Working with CSV files
     Using dictionaries for data storage
     Handling exceptions
+    Using regex
     Structuring a Python project
     Implementing simple CRUD logic (Create, Read, Update, Delete)
 
@@ -70,7 +71,6 @@ This project was created to practice:
 
 ## 📅 Future Improvements
     Add search by name
-    Add email/phone validation (using regex)
     Export contacts to JSON
     Add unit tests
 
